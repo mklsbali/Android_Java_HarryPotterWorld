@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/start_page">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:orientation="vertical"></LinearLayout>
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="400dp"
+        android:layout_gravity="center"
+        android:layout_height="100dp"
+        android:background="@drawable/answern"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:fontFamily="@font/buxton_sketch"
+        android:textColor="#FF0000"
+        android:gravity="center_vertical"
+        android:text="First question" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:orientation="vertical"></LinearLayout>
+
+    <Button
+        android:id="@+id/a1"
+        android:layout_width="350dp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:background="@drawable/answern"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:gravity="center_vertical"
+        android:fontFamily="@font/buxton_sketch"
+        android:textSize="18sp"
+        android:text="A: Answer1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:orientation="vertical"></LinearLayout>
+    <Button
+        android:id="@+id/a2"
+        android:layout_width="350dp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:gravity="center_vertical"
+        android:background="@drawable/answern"
+        android:textAllCaps="false"
+        android:fontFamily="@font/buxton_sketch"
+        android:textSize="18sp"
+        android:text="B: Answer2" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:orientation="vertical"></LinearLayout>
+    <Button
+        android:id="@+id/a3"
+        android:layout_width="350dp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"
+        android:background="@drawable/answern"
+        android:textAllCaps="false"
+        android:gravity="center_vertical"
+        android:fontFamily="@font/buxton_sketch"
+        android:textSize="18sp"
+        android:text="C: Answer3" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:orientation="vertical"></LinearLayout>
+    <Button
+        android:id="@+id/a4"
+        android:layout_width="350dp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:background="@drawable/answern"
+        android:textAllCaps="false"
+        android:fontFamily="@font/buxton_sketch"
+        android:textSize="18sp"
+        android:text="D: Answer4" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:orientation="vertical"></LinearLayout>
+    <Button
+        android:id="@+id/a5"
+        android:layout_width="350dp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:background="@drawable/answern"
+        android:gravity="center_vertical"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:fontFamily="@font/buxton_sketch"
+        android:textSize="18sp"
+        android:text="E: Answer5" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="vertical"></LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"></LinearLayout>
+        <Button
+            android:id="@+id/next"
+            android:layout_width="100dp"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button"
+            android:textStyle="bold"
+            android:fontFamily="@font/buxton_sketch"
+            android:textSize="18sp"
+            android:text="Next" />
+    </LinearLayout>
+    <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button"
+        android:textStyle="bold"
+        android:fontFamily="@font/buxton_sketch"
+        android:textSize="18sp"
+        android:text="Back to Main Menu" />
+
+
+
+</LinearLayout>

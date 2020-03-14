@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/start_page">
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="400dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:background="@drawable/answern"
+        android:textStyle="bold"
+        android:textSize="29sp"
+        android:fontFamily="@font/buxton_sketch"
+        android:text="Congratulations... you are Harry Potter" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:orientation="vertical"></LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="350dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:background="@drawable/im_back"
+        android:src="@drawable/hermike"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:orientation="vertical"></LinearLayout>
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="400dp"
+        android:layout_gravity="center_horizontal"
+        android:textSize="25sp"
+        android:textColor="#000000"
+        android:fontFamily="@font/buxton_sketch"
+        android:layout_height="wrap_content"
+        android:background="@drawable/answern"
+
+        android:text="Blablabla" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="vertical"></LinearLayout>
+    <Button
+        android:id="@+id/mainmenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:fontFamily="@font/buxton_sketch"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/button"
+        android:text="Main menu" />
+</LinearLayout>

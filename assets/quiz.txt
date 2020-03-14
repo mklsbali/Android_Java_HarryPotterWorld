@@ -1,0 +1,60 @@
+What is your favourite class?
+A: Charm
+B: Defence against the Dark Arts
+C: Transfiguration
+D: Divination
+E: History of Magic
+What is your favourite Pet?
+A: Rat
+B: Snake
+C: Cat
+D: Owl
+E: Phoenix
+What is your greatest fear?
+A: Loss of control
+B: Death
+C: Losing someone I love
+D: Failure
+E: Being mundance or ordinary
+What is your Hogwarts house?
+A: Slytheln
+B: Gryffindor
+C: Ravenclaw
+D: Hufflepuff
+E: I think I'm a Muggle or Squib
+How would your friends describe you?
+A: Smart and talented
+B: A leader
+C: Self-confident, but a little arrogant
+D: Sarcastic and funny
+E: Gloomy and scary
+What kind of people do you like the most?
+A: People who are popular
+B: People who are smart
+C: People who are loyal to me
+D: People who like me
+E: People who are kind
+What is your favourite place?
+A: Library
+B: Quidditch field
+C: School
+D: Home
+E: My secret lair
+What is your strongest trait?
+A: Bravery
+B: Loyality
+C: Inteligence
+D: Humour
+E: Self-discipline
+Do you have many friends?
+A: Yeah, I have lots of friends
+B: No, I have hardly any friends
+C: I don't need friends
+D: I have a small circle of friends
+E: I dont't have any friends
+What would you do if confronted by your enemy?
+A: Scream and panic
+B: Act brave and fight back
+C: Run away
+D: Act calm and confident
+E: Strike first, ask questions later
